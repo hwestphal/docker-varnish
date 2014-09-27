@@ -1,0 +1,4 @@
+docker-varnish
+==============
+
+Varnish dockerfile.
